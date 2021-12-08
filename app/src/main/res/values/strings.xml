@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GuideWebView</string>
+    <string name="cong">Cong! %1$s</string>
+    <string name="score">Score %1$d</string>
+    <string name="fail">Fail %1$d</string>
+    <string name="truee">True!</string>
+    <string name="failing_match">Failing match %1$s</string>
+    <string name="play">Play</string>
+    <string name="name">Name</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

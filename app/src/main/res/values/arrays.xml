@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="cardImageResourceIdsArray">
+        <item>@drawable/joker</item>
+        <item>@drawable/cherry</item>
+        <item>@drawable/ring</item>
+        <item>@drawable/diamond</item>
+        <item>@drawable/start</item>
+        <item>@drawable/bug</item>
+        <item>@drawable/wheel</item>
+        <item>@drawable/book</item>
+    </integer-array>
+</resources>
